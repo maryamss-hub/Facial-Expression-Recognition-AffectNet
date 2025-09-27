@@ -1,9 +1,9 @@
 # Facial-Expression-Recognition-AffectNet
-Assignment 01 - Deep Learning (CS452) at FAST-NUCES Facial Expression Recognition and Valence-Arousal Regression using CNN baselines (MobileNetV2, EfficientNetB0) with transfer learning and comparison of performance metrics.
+Facial Expression Recognition and Valence-Arousal Regression using CNN baselines (MobileNetV2, EfficientNetB0) with transfer learning and comparison of performance metrics.
 
 
 ##  Overview
-This repository contains the implementation for **Assignment 01 - Deep Learning (CS452)** at FAST-NUCES, Islamabad.  
+This repository contains the implementation for **Assignment 01 - Deep Learning (CS452)** 
 The task is **facial expression recognition (8 classes)** and **valence-arousal regression** using CNN baselines.
 
 We compare:
