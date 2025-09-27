@@ -38,10 +38,3 @@ We compare:
 
 📈 Training curves, confusion matrices, and sample predictions are available in `outputs/`.
 
----
-
-## 📦 Installation
-```bash
-git clone https://github.com/<your-username>/Facial-Expression-Recognition-AffectNet.git
-cd Facial-Expression-Recognition-AffectNet
-pip install -r requirements.txt
